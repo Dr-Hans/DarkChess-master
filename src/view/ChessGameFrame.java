@@ -182,7 +182,7 @@ public class ChessGameFrame extends JFrame {
         statusLabel3.setFont(new Font("Rockwell", Font.BOLD, 20));
         panel.add(statusLabel3);
     }
-//hwl
+
 
     public void refreshLabel() {
         ChessGameFrame.getStatusLabel().setText("Reveal A Chess To Start!");
